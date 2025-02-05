@@ -28,12 +28,10 @@ All posts are stored in the `/posts` directory, sorted by date.
 - Possibly integrating with GitHub Pages
 
 ## 📜 License
-This blog is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+This blog is licensed under the **MIT** license.
 
-### Why CC BY 4.0?
-- Allows others to use and share content **with attribution**.
-- Retains credit for original work.
-- Encourages knowledge-sharing without full restrictions.
+### Why MIT?
+- It's simple, widely accepted, and works well for content and code.
 
 For details, see the [LICENSE](LICENSE) file.
 
